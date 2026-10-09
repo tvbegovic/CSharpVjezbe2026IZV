@@ -1,0 +1,10 @@
+﻿Console.Write("Prvi broj: ");
+string unos = Console.ReadLine();
+int prvi = int.Parse(unos);
+Console.Write("Drugi broj: ");
+unos = Console.ReadLine();
+int drugi = int.Parse(unos);
+Console.WriteLine($"Zbroj je {prvi + drugi}");
+Console.WriteLine($"Razlika je {prvi - drugi}");
+Console.WriteLine($"Umnožak je {prvi * drugi}");
+Console.WriteLine($"Kvocijent je {prvi / drugi}");

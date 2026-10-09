@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Inicijali/Inicijali.csproj" />
+  <Project Path="RacunskeOperacije/RacunskeOperacije.csproj" />
+  <Project Path="TocnoVrijeme/TocnoVrijeme.csproj" />
+</Solution>
