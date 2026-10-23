@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="DaniMjeseca/DaniMjeseca.csproj" Id="460175b2-c841-498a-b5be-e5db8e07f2c4" />
+  <Project Path="DatumiRodenja/DatumiRodenja.csproj" Id="c08d1afe-34e7-4ff2-af9d-122f65b45a79" />
   <Project Path="Inicijali/Inicijali.csproj" />
   <Project Path="ProsjekOcjena/ProsjekOcjena.csproj" Id="9c81cf07-6989-4c91-aaf2-cccf880854bc" />
   <Project Path="ProsjekOcjena_TryParse/ProsjekOcjena_TryParse.csproj" Id="c22e1f2e-c07c-441c-bbea-dc493af57b0c" />
