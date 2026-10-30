@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="DaniMjeseca/DaniMjeseca.csproj" Id="460175b2-c841-498a-b5be-e5db8e07f2c4" />
   <Project Path="DatumiRodenja/DatumiRodenja.csproj" Id="c08d1afe-34e7-4ff2-af9d-122f65b45a79" />
+  <Project Path="Djelitelji/Djelitelji.csproj" Id="6f186b4c-c0ee-40e4-bf73-25ffc90de4a6" />
+  <Project Path="Djelitelji_dopetlja/Djelitelji_dopetlja.csproj" Id="04c82312-3d92-4a44-a117-f6e0add63c9d" />
   <Project Path="Inicijali/Inicijali.csproj" />
   <Project Path="ProsjekOcjena/ProsjekOcjena.csproj" Id="9c81cf07-6989-4c91-aaf2-cccf880854bc" />
   <Project Path="ProsjekOcjena_TryParse/ProsjekOcjena_TryParse.csproj" Id="c22e1f2e-c07c-441c-bbea-dc493af57b0c" />
