@@ -7,6 +7,7 @@
   <Project Path="Inicijali/Inicijali.csproj" />
   <Project Path="IzracunKamata/IzracunKamata.csproj" Id="afb7b2ae-d28f-4e3e-8166-540d6d143595" />
   <Project Path="IzracunKamata_Iznimke/IzracunKamata_Iznimke.csproj" Id="cec0d646-5491-4e1d-a2d4-5195aedaae7e" />
+  <Project Path="ListaRijeci/ListaRijeci.csproj" Id="1b49b37e-7d4f-4348-943a-2553612bcd4e" />
   <Project Path="OtplataKredita/OtplataKredita.csproj" Id="704be7c9-731f-40e7-a402-ae13c8b00d05" />
   <Project Path="ProsjekOcjena/ProsjekOcjena.csproj" Id="9c81cf07-6989-4c91-aaf2-cccf880854bc" />
   <Project Path="ProsjekOcjena_TryParse/ProsjekOcjena_TryParse.csproj" Id="c22e1f2e-c07c-441c-bbea-dc493af57b0c" />
